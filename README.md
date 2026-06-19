@@ -3,8 +3,7 @@
 This repository publishes official FileLever release binaries through GitHub
 Releases.
 
-The application source code is maintained separately in the private
-`../file-lever` repository and is not part of this public downloads repository.
+Website: https://www.filelever.com
 
 ## What FileLever Is
 
